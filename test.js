@@ -1,0 +1,5 @@
+require('./ensureArray/test')
+require('./groupByType/test')
+require('./verify/test')
+require('./pick/test')
+require('./defaultTo/test')
